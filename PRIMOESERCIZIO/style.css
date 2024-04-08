@@ -1,0 +1,83 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+font-family: "Inter", sans-serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: yellow;
+}
+
+p:hover{
+    color: rgb(150, 245, 26);
+}
+
+h3{
+    color: rgb(62, 112, 4);
+}
+
+.Sfondo{
+    width: 300px;
+    height: 200px;
+    background-image: url('https://bebeez.it/wp-content/uploads/2020/06/aulab.png');
+    background-size: cover;
+    border: solid 2px;
+    border-radius: 5px;
+}
+
+nav{
+    background-color: grey;
+}
+
+.logosfondo{
+    width: 150px;
+    height: 150px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.lista{
+    list-style-type: none;
+}
+
+header{
+    height: 70vh;
+    background-image: url('https://equitycrowdfunding.news/wp-content/uploads/2021/04/aulab-equity-crowdfunding-news.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+.linkhome{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.btnarticolo{
+    background-color: black;
+}
+
+.linkbutton{
+    color: white!important;
+    text-decoration: none;
+}
+
+
+
